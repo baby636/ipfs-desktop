@@ -67,7 +67,7 @@
     "semver-regex": "^3.1.1",
     "shx": "^0.3.2",
     "sinon": "^9.0.2",
-    "spectron": "^10.0.1",
+    "spectron": "^11.1.0",
     "standard": "^14.3.4",
     "tar": "^6.0.2",
     "tmp": "0.2.1",
@@ -99,7 +99,7 @@
     "untildify": "^4.0.0",
     "v8-compile-cache": "^2.1.0",
     "which": "^2.0.2",
-    "winston": "^3.2.1",
+    "winston": "^3.3.0",
     "yargs": "^15.3.1"
   }
 }
