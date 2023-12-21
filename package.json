@@ -46,7 +46,7 @@
   },
   "homepage": "https://github.com/ipfs-shipyard/ipfs-desktop",
   "devDependencies": {
-    "@svgr/cli": "^5.4.0",
+    "@svgr/cli": "^6.0.0",
     "chai": "^4.2.0",
     "cross-env": "^7.0.2",
     "delay": "^4.3.0",
@@ -67,7 +67,7 @@
     "semver-regex": "^3.1.1",
     "shx": "^0.3.2",
     "sinon": "^9.0.2",
-    "spectron": "^10.0.1",
+    "spectron": "^14.0.0",
     "standard": "^14.3.4",
     "tar": "^6.0.2",
     "tmp": "0.2.1",
