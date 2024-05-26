@@ -68,9 +68,9 @@
     "shx": "^0.3.2",
     "sinon": "^9.0.2",
     "spectron": "^10.0.1",
-    "standard": "^14.3.4",
+    "standard": "^16.0.0",
     "tar": "^6.0.2",
-    "tmp": "0.2.1",
+    "tmp": "0.2.2",
     "xvfb-maybe": "^0.2.1"
   },
   "dependencies": {
