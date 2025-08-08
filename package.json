@@ -52,7 +52,7 @@
     "delay": "^4.3.0",
     "dirty-chai": "^2.0.1",
     "dotenv": "^8.2.0",
-    "electron": "^8.2.5",
+    "electron": "^37.2.6",
     "electron-builder": "^22.6.0",
     "electron-notarize": "^0.3.0",
     "electron-notarize-dmg": "1.0.0",
@@ -67,10 +67,10 @@
     "semver-regex": "^3.1.1",
     "shx": "^0.3.2",
     "sinon": "^9.0.2",
-    "spectron": "^10.0.1",
+    "spectron": "^11.1.0",
     "standard": "^14.3.4",
     "tar": "^6.0.2",
-    "tmp": "0.2.1",
+    "tmp": "0.2.4",
     "xvfb-maybe": "^0.2.1"
   },
   "dependencies": {
